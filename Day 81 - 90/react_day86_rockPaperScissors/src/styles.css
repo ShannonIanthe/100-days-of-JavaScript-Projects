@@ -1,0 +1,24 @@
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(46, 48, 53);
+}
+
+.container {
+    font-size: 20px;
+    color: rgb(255, 249, 249);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.btns {
+    padding: 10px 10px;
+    background-color: rgb(1, 143, 175);
+    border: none;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    margin: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+}
