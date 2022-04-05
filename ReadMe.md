@@ -1,7 +1,7 @@
 <h1>Welcome to the 100 Days Of Code Challenge in JavaScript.</h1>
 
 <h3>I decided to commit to this challenge to improve my JavaScript Skills</h3>
-  <p>While doing this project I also incorporated HTML, CSS, SASS, Bootstrap</p>
+  <p>While doing this project I also incorporated HTML, CSS, SASS, Bootstrap, Tailwind, Materialize, Material UI </p>
   <p>I also utilized various packages such as Three.js and Spring.js </p>
   <h3> Throughout this journey I discovered:</h3>
   <ul>
