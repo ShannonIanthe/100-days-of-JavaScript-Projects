@@ -1,4 +1,4 @@
-<h1>Welcome to the 100DaysOfCode Challenge in JavaScript.</h1>
+<h1>Welcome to the 100 Days Of Code Challenge in JavaScript.</h1>
 
 <h3>I decided to commit to this challenge to improve my JavaScript Skills</h3>
   <p>While doing this project I also incorporated HTML, CSS, SASS, Bootstrap</p>
