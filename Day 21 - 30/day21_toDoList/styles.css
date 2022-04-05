@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Bebas+Neue&family=EB+Garamond&family=Just+Me+Again+Down+Here&family=Montserrat:wght@200&family=Nunito:wght@200&family=Open+Sans:wght@300&family=Orbitron:wght@600&family=Oswald:wght@300&family=Playfair+Display:wght@400;500&family=Poppins:wght@200&family=Quicksand:wght@300;400&family=Roboto+Mono:wght@100&family=Space+Mono&family=The+Girl+Next+Door&family=Varela+Round&display=swap');
+
+html, body {
+    width: 50%;
+    margin: 0 auto;
+    font-family: 'The Girl Next Door', cursive;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1058%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='rgba(255%2c 255%2c 255%2c 1)'%3e%3c/rect%3e%3crect width='276' height='276' clip-path='url(%26quot%3b%23SvgjsClipPath1059%26quot%3b)' x='1129.69' y='329.81' fill='url(%23SvgjsPattern1060)' transform='rotate(171.67%2c 1267.69%2c 467.81)'%3e%3c/rect%3e%3cpath d='M1081.76 612.14 L1173.17 582.99L1171.3471696993722 641.447169699372z' stroke='rgba(253%2c 239%2c 114%2c 1)' stroke-width='2.57'%3e%3c/path%3e%3crect width='202.88' height='202.88' clip-path='url(%26quot%3b%23SvgjsClipPath1061%26quot%3b)' x='390.59' y='83.36' fill='url(%23SvgjsPattern1062)' transform='rotate(129.75%2c 492.03%2c 184.8)'%3e%3c/rect%3e%3cpath d='M606.21 197.49a5.6 5.6 0 1 0 7.84 7.99 5.6 5.6 0 1 0-7.84-7.99zM617.41 208.91a5.6 5.6 0 1 0 7.84 8 5.6 5.6 0 1 0-7.84-8zM628.61 220.34a5.6 5.6 0 1 0 7.84 8 5.6 5.6 0 1 0-7.84-8zM639.81 231.76a5.6 5.6 0 1 0 7.84 8 5.6 5.6 0 1 0-7.84-8zM572.38 185.84a5.6 5.6 0 1 0 7.84 7.99 5.6 5.6 0 1 0-7.84-7.99zM583.58 197.26a5.6 5.6 0 1 0 7.84 8 5.6 5.6 0 1 0-7.84-8zM594.78 208.69a5.6 5.6 0 1 0 7.84 7.99 5.6 5.6 0 1 0-7.84-7.99zM605.98 220.11a5.6 5.6 0 1 0 7.85 8 5.6 5.6 0 1 0-7.85-8zM538.56 174.18a5.6 5.6 0 1 0 7.84 8 5.6 5.6 0 1 0-7.84-8zM549.76 185.61a5.6 5.6 0 1 0 7.84 8 5.6 5.6 0 1 0-7.84-8zM560.96 197.04a5.6 5.6 0 1 0 7.84 7.99 5.6 5.6 0 1 0-7.84-7.99zM572.16 208.46a5.6 5.6 0 1 0 7.84 8 5.6 5.6 0 1 0-7.84-8z' fill='rgba(194%2c 123%2c 251%2c 1)'%3e%3c/path%3e%3cpath d='M693.01 166.71a5.6 5.6 0 1 0-7.6 8.23 5.6 5.6 0 1 0 7.6-8.23zM682.15 178.46a5.6 5.6 0 1 0-7.6 8.23 5.6 5.6 0 1 0 7.6-8.23zM671.29 190.21a5.6 5.6 0 1 0-7.6 8.23 5.6 5.6 0 1 0 7.6-8.23zM660.43 201.96a5.6 5.6 0 1 0-7.6 8.22 5.6 5.6 0 1 0 7.6-8.22zM702.98 132.35a5.6 5.6 0 1 0-7.6 8.23 5.6 5.6 0 1 0 7.6-8.23zM692.12 144.1a5.6 5.6 0 1 0-7.6 8.23 5.6 5.6 0 1 0 7.6-8.23zM681.26 155.85a5.6 5.6 0 1 0-7.6 8.23 5.6 5.6 0 1 0 7.6-8.23zM670.4 167.6a5.6 5.6 0 1 0-7.6 8.23 5.6 5.6 0 1 0 7.6-8.23zM712.96 97.99a5.6 5.6 0 1 0-7.61 8.23 5.6 5.6 0 1 0 7.61-8.23zM702.09 109.74a5.6 5.6 0 1 0-7.6 8.23 5.6 5.6 0 1 0 7.6-8.23zM691.23 121.49a5.6 5.6 0 1 0-7.6 8.23 5.6 5.6 0 1 0 7.6-8.23zM680.37 133.24a5.6 5.6 0 1 0-7.6 8.23 5.6 5.6 0 1 0 7.6-8.23z' fill='rgba(253%2c 239%2c 114%2c 1)'%3e%3c/path%3e%3crect width='120' height='120' clip-path='url(%26quot%3b%23SvgjsClipPath1063%26quot%3b)' x='812.29' y='254.48' fill='url(%23SvgjsPattern1064)' transform='rotate(51.08%2c 872.29%2c 314.48)'%3e%3c/rect%3e%3crect width='372' height='372' clip-path='url(%26quot%3b%23SvgjsClipPath1065%26quot%3b)' x='611.92' y='-132.05' fill='url(%23SvgjsPattern1066)' transform='rotate(44.55%2c 797.92%2c 53.95)'%3e%3c/rect%3e%3crect width='288' height='288' clip-path='url(%26quot%3b%23SvgjsClipPath1067%26quot%3b)' x='947.94' y='68.3' fill='url(%23SvgjsPattern1068)' transform='rotate(69.4%2c 1091.94%2c 212.3)'%3e%3c/rect%3e%3cpath d='M521.55 178.37 L540.56 198.76000000000002L542.1831389272983 177.43686107270162z' stroke='rgba(194%2c 123%2c 251%2c 1)' stroke-width='1' stroke-dasharray='3%2c 2'%3e%3c/path%3e%3crect width='180' height='180' clip-path='url(%26quot%3b%23SvgjsClipPath1069%26quot%3b)' x='10.97' y='377.52' fill='url(%23SvgjsPattern1070)' transform='rotate(256.46%2c 100.97%2c 467.52)'%3e%3c/rect%3e%3crect width='180' height='180' clip-path='url(%26quot%3b%23SvgjsClipPath1071%26quot%3b)' x='1108.39' y='182.61' fill='url(%23SvgjsPattern1072)' transform='rotate(216.4%2c 1198.39%2c 272.61)'%3e%3c/rect%3e%3crect width='72' height='72' clip-path='url(%26quot%3b%23SvgjsClipPath1073%26quot%3b)' x='18.42' y='316.36' fill='url(%23SvgjsPattern1074)' transform='rotate(145.48%2c 54.42%2c 352.36)'%3e%3c/rect%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1058'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cpattern x='0' y='0' width='6' height='6' patternUnits='userSpaceOnUse' id='SvgjsPattern1060'%3e%3cpath d='M3 1L3 5M1 3L5 3' stroke='rgba(20%2c 211%2c 204%2c 1)' fill='none' stroke-width='1.92'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1059'%3e%3ccircle r='69' cx='1267.69' cy='467.81'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='202.88' height='12.68' patternUnits='userSpaceOnUse' id='SvgjsPattern1062'%3e%3crect width='202.88' height='6.34' x='0' y='0' fill='rgba(194%2c 123%2c 251%2c 1)'%3e%3c/rect%3e%3crect width='202.88' height='6.34' x='0' y='6.34' fill='rgba(0%2c 0%2c 0%2c 0)'%3e%3c/rect%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1061'%3e%3ccircle r='50.72' cx='492.03' cy='184.8'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='120' height='6' patternUnits='userSpaceOnUse' id='SvgjsPattern1064'%3e%3crect width='120' height='3' x='0' y='0' fill='rgba(253%2c 239%2c 114%2c 1)'%3e%3c/rect%3e%3crect width='120' height='3' x='0' y='3' fill='rgba(0%2c 0%2c 0%2c 0)'%3e%3c/rect%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1063'%3e%3ccircle r='30' cx='872.29' cy='314.48'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='6' height='6' patternUnits='userSpaceOnUse' id='SvgjsPattern1066'%3e%3cpath d='M3 1L3 5M1 3L5 3' stroke='rgba(194%2c 123%2c 251%2c 1)' fill='none' stroke-width='1.83'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1065'%3e%3ccircle r='93' cx='797.92' cy='53.95'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='6' height='6' patternUnits='userSpaceOnUse' id='SvgjsPattern1068'%3e%3cpath d='M0 6L3 0L6 6' stroke='rgba(20%2c 211%2c 204%2c 1)' fill='none'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1067'%3e%3ccircle r='72' cx='1091.94' cy='212.3'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='6' height='6' patternUnits='userSpaceOnUse' id='SvgjsPattern1070'%3e%3cpath d='M3 1L3 5M1 3L5 3' stroke='rgba(194%2c 123%2c 251%2c 1)' fill='none' stroke-width='1'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1069'%3e%3ccircle r='45' cx='100.97' cy='467.52'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='6' height='6' patternUnits='userSpaceOnUse' id='SvgjsPattern1072'%3e%3cpath d='M0 6L3 0L6 6' stroke='rgba(20%2c 211%2c 204%2c 1)' fill='none'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1071'%3e%3ccircle r='45' cx='1198.39' cy='272.61'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='72' height='6' patternUnits='userSpaceOnUse' id='SvgjsPattern1074'%3e%3crect width='72' height='3' x='0' y='0' fill='rgba(194%2c 123%2c 251%2c 1)'%3e%3c/rect%3e%3crect width='72' height='3' x='0' y='3' fill='rgba(0%2c 0%2c 0%2c 0)'%3e%3c/rect%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1073'%3e%3ccircle r='18' cx='54.42' cy='352.36'%3e%3c/circle%3e%3c/clipPath%3e%3c/defs%3e%3c/svg%3e");
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 800px;
+}
+
+.container {
+    width: 360px;
+}
+
+#inputField {
+    width: 300px;
+    height: 46px;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+    border-radius: 20px;
+    font-family: 'The Girl Next Door', cursive;
+}
+
+#addToDo {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+    border-radius: 20px;
+    background-color: rgb(198, 111, 235);
+}
+
+.to-dos {
+    margin-top: 25px;
+    background-color: transparent;
+}
+
+.paragraph-styling {
+    margin-top: 0;
+    cursor: pointer;
+    font-size: 20px;
+}

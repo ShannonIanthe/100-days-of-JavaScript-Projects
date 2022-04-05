@@ -1,0 +1,72 @@
+body {
+  overflow-x: hidden;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+}
+nav {
+  display: flex;
+}
+nav ul{
+  text-align: center;
+  text-decoration: none;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+nav li {
+  float: right;
+  text-decoration: none;
+  list-style: none;
+  text-align: center;
+  padding: 14px 16px;
+}
+nav a{
+  display: block;
+  text-decoration: none;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+}
+
+main {
+  padding: 200px 20px;
+}
+
+button {
+  margin: 20px;
+  margin-left: 900px;
+  align-items: center;
+  text-align: center;
+  border-radius: 10px;
+  background-color: aqua;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.transition-fade {
+  opacity: 1;
+  transition: 500ms;
+  transform: translateX(0);
+  transform-origin: left;
+}
+
+html.is-animating .transition-fade {
+  opacity: 1;
+  transform: translateX(100%);
+}
+
+html.is-leaving .transition-fade {
+  opacity: 0;
+  transform: translateX(0);
+}
+
+.transition-swipe {
+  transition: 500ms;
+  transform: translateY(0);
+}
+
+html.is-animating .transition-swipe {
+  transform: translateY(100px);
+}
+
