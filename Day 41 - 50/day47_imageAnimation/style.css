@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(0, 0, 2);
+}
+
+.landing{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    padding: 20px 20px 20px 20px;
+}
+
+.intro {
+    align-self: center;
+    color: aliceblue;
+    font-family: 'Monument Extended';
+}
+
+.intro h2 {
+    font-size: 50px;
+    padding-bottom: 30px;
+
+}
+
+.intro p{
+    font-size: 25px;
+    text-align: justify;
+}
+
+.distortion {
+    width: 630px;
+    height: 920px;
+    align-self: flex-end;
+    padding-left: 230px;
+}

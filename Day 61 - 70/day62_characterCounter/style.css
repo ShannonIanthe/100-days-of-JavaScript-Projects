@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 45;
+    font-weight: 50rem;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    background: chocolate;
+    margin: 50px 50px;
+    padding: 100px 100px;
+}

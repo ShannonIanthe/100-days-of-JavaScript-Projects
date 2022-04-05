@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Bebas+Neue&family=EB+Garamond&family=Inspiration&family=Josefin+Sans:wght@300&family=Just+Me+Again+Down+Here&family=Lexend+Giga:wght@500&family=Montserrat:wght@200;500&family=Nanum+Myeongjo:wght@800&family=Nunito:wght@200&family=Open+Sans:wght@300&family=Orbitron:wght@600&family=Oswald:wght@300&family=Playfair+Display:wght@400;500&family=Poppins:wght@200;400&family=Quicksand:wght@300;400&family=Raleway&family=Roboto+Mono:wght@100&family=Shizuru&family=Space+Mono&family=The+Girl+Next+Door&family=Varela+Round&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header, footer {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header h1 {
+    font-size: 60px;
+}
+
+.animation {
+    height: 100vh;
+    background-image: linear-gradient(to top, #ff9a9e 0%, #fecfef 99%, #fecfef 100%);
+    position: relative;
+    overflow: hidden;
+}
+
+.paper-plane{
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 0%;
+}

@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Amarante&family=Amatic+SC:wght@700&family=Bebas+Neue&family=Comfortaa:wght@500&family=Dongle:wght@300&family=EB+Garamond&family=Inspiration&family=Josefin+Sans:wght@300&family=Just+Me+Again+Down+Here&family=Lexend+Giga:wght@500&family=Montserrat:wght@200;500&family=Nanum+Myeongjo:wght@800&family=Nunito:wght@200&family=Open+Sans+Condensed:wght@300&family=Open+Sans:wght@300&family=Orbitron:wght@600&family=Oswald:wght@300&family=Playfair+Display:wght@400;500&family=Poppins:wght@200;400&family=Quicksand:wght@300;400&family=Raleway&family=Roboto+Mono:wght@100&family=Roboto:wght@300&family=Rubik+Beastly&family=Shizuru&family=Space+Mono&family=The+Girl+Next+Door&family=Varela+Round&display=swap');
+*{
+    font-family: 'Amarante', cursive;
+}
+
+body {
+    background: linear-gradient(90deg, rgb(245, 196, 196), rgb(243, 74, 229));
+}
+
+#content {
+    background: #fff;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+#eightball {
+    width: 350px;
+    height: 350px;
+    background: black;
+    color: white;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 100%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+#answer {
+    font-size: 25px;
+}
+
+button {
+    background: purple;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+    padding: 5px 5px;
+}
+

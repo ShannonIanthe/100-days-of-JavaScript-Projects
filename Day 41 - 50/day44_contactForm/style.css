@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Bebas+Neue&family=EB+Garamond&family=Inspiration&family=Josefin+Sans:wght@300&family=Just+Me+Again+Down+Here&family=Lexend+Giga:wght@500&family=Montserrat:wght@200&family=Nanum+Myeongjo:wght@800&family=Nunito:wght@200&family=Open+Sans:wght@300&family=Orbitron:wght@600&family=Oswald:wght@300&family=Playfair+Display:wght@400;500&family=Poppins:wght@200;400&family=Quicksand:wght@300;400&family=Roboto+Mono:wght@100&family=Shizuru&family=Space+Mono&family=The+Girl+Next+Door&family=Varela+Round&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+body {
+    background-color: #fece0c;
+}
+
+.wrapper {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 350px;
+    width: 100%;
+    background: #fff;
+    padding: 25px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 2px rgba(254,236,164,1);
+}
+
+.wrapper h2{
+    text-align: center;
+    margin-bottom: 12px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #332902;
+    padding: 15px;
+}
+
+.wrapper .input-field {
+    margin-bottom: 10px;
+}
+
+.wrapper .input-field input[type="text"],
+.wrapper textarea{
+    width: 100%;
+    border: 1pxsolid #e0e0e0;
+    padding: 10px;
+}
+
+.wrapper textarea{
+    height: 80px;
+    resize: none;
+}
+
+.wrapper .btn input[type="submit"]{
+    border: 0;
+    margin-top: 15px;
+    padding: 10px;
+    width: 100%;
+    background: #fece0c;
+    color: #332933;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-weight: bold;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.wrapper #error-message{
+    margin-bottom: 20px;
+    padding: 0px;
+    background: #fe8b8e;
+    text-align: center;
+    font-size: 14px;
+    transition: all 0.5s ease;
+}
